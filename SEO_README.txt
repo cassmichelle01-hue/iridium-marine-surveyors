@@ -1,0 +1,1 @@
+Four SEO resource pages added, linked from all page footers. Existing design and photos preserved. The canonical URLs and sitemap assume the domain iridiummarinesurveyors.com will be connected; update if a different final domain is chosen. These pages are intended for visitors and search engines, not hidden keyword doorway pages. Google indexing is not guaranteed.
